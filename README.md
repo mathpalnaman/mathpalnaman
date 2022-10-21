@@ -4,7 +4,7 @@
 - 👨‍💻 I’m currently working on DSA and I'm learning Devops (trying it out).
 - 📚 I’m very much interest in open source and collabrative works.  DMs are always open :)
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: i love movies and cinematography, also i like football.
+- ⚡ Fun fact: i love movies and anime, also i like manga.
 
 
 
