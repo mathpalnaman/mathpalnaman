@@ -1,5 +1,5 @@
 # I'm Naman Mathpal, 
-<img align="right" src="https://komarev.com/ghpvc/?username=scopophobic&label=Profile%20views&color=0e75b6&style=flat" alt="mathpalnaman" /> 
+<img align="right" src="https://komarev.com/ghpvc/?username=mathpalnman&label=Profile%20views&color=0e75b6&style=flat" alt="mathpalnaman" /> 
 
 - 👨‍💻 I’m currently working on DSA and I'm learning Devops (trying it out).
 - 📚 I’m very much interest in open source and collabrative works.  DMs are always open :)
